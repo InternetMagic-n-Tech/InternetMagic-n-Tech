@@ -43,3 +43,6 @@ Architecting in phases. Each phase of a problem is matched to the right tool, tr
 - **PII safety:** data integrity and protection of personal data
 - **Documentation:** written down so it can be followed
 - **Project planning:** work broken into phases before it is built
+
+
+**Slavi Ukraine 🇺🇦**
