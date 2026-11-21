@@ -50,7 +50,7 @@ The imeng voice is **"The Calm Professional in the Center of the Storm."**
 
 **Example:**
 * *Bad:* "We make cool AI tools that are super easy to use!"
-* *imeng:* "Architecting modular AI toolsets designed for human integration."
+* *imeng:* "Architecting modular AI test racks & tools to stress test/measure your assumptions"
 
 ---
 
@@ -60,5 +60,3 @@ The imeng voice is **"The Calm Professional in the Center of the Storm."**
 * **Game Visuals:** Moody, atmospheric, utilizing heavy shadows and "etched" textures to create depth.
 * **Documentation:** Structured, hierarchical, and technical (Markdown-first).
 
----
-**End of Document**
