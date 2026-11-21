@@ -1,4 +1,4 @@
-# imeng Brand Identity Manual
+# IM&T Brand Identity Manual
 **Version:** 1.0  
 **Core Concept:** The Engine of Constructed Worlds  
 **Status:** Active / Living Document
@@ -6,7 +6,7 @@
 ---
 
 ## 1. The Brand Philosophy
-imeng is not just a studio; it is a mechanical process of turning raw chaos (data, AI, imagination) into structured, human-usable reality. We sit at the intersection of **High-Tech Architecture** and **Analog Craft**.
+IM&T is not just a studio; it is a mechanical process of turning raw chaos (data, AI, imagination) into structured, human-usable reality. We sit at the intersection of **High-Tech Architecture** and **Analog Craft**.
 
 ### Brand Pillars
 * **Momentum:** We move from idea to artifact with engineering precision.
