@@ -43,7 +43,7 @@ All visual assets must adhere to the **Woodcut/Linocut** aesthetic.
 The IM&T voice is **"The Reliable Architect."** It provides the structural standard for all underlying projects. It is precise, grounded, and focused on the *how*.
 
 * **Do:** Use structural and modular language (*Layer, Interface, Configuration, Environment, Observability, Integrity, Deploy*).
-* **Do:** Focus on the "Engineer's Experience"—making the complex feel manageable and testable.
+* **Do:** Focus on the "Engineer's Experience"-making the complex feel manageable and testable.
 * **Don't:** Use "Magic" or "Black Box" language. Avoid implying the AI is a mystery; treat it as a system to be measured.
 * **Don't:** Use "Hype" or "Marketing" fluff.
 
