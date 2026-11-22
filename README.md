@@ -44,8 +44,4 @@ Architecting in phases. Each phase of a problem is matched to the right tool, tr
 - **Documentation:** written down so it can be followed
 - **Project planning:** work broken into phases before it is built
 
-<p align="center">
-  <img src="thought-engineer.jpg" alt="Image description" width="400" />
-</p>
-
 **Slavi Ukraine 🇺🇦**
